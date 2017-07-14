@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Prologue by HTML5 UP</title>
+		<title>Dan Shapiro</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -24,8 +24,8 @@
 					<!-- Logo -->
 						<div id="logo">
 							<span class="image avatar48"><img src="images/avatar.jpg" alt="" /></span>
-							<h1 id="title">Jane Doe</h1>
-							<p>Hyperspace Engineer</p>
+							<h1 id="title">Dan Shapiro</h1>
+							<p>Software Engineer</p>
 						</div>
 
 					<!-- Nav -->
@@ -47,7 +47,9 @@
 								<li><a href="#top" id="top-link" class="skel-layers-ignoreHref"><span class="icon fa-home">Intro</span></a></li>
 								<li><a href="#portfolio" id="portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-th">Portfolio</span></a></li>
 								<li><a href="#about" id="about-link" class="skel-layers-ignoreHref"><span class="icon fa-user">About Me</span></a></li>
+								<!--
 								<li><a href="#contact" id="contact-link" class="skel-layers-ignoreHref"><span class="icon fa-envelope">Contact</span></a></li>
+								-->
 							</ul>
 						</nav>
 
@@ -57,11 +59,8 @@
 
 					<!-- Social Icons -->
 						<ul class="icons">
-							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-							<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-							<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+							<li><a href="https://github.com/Dan-Shapiro" class="icon fa-github"><span class="label">Github</span></a></li>
+							<li><a href="www.linkedin.com/in/dan--shapiro" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
 						</ul>
 
 				</div>
@@ -76,14 +75,13 @@
 						<div class="container">
 
 							<header>
-								<h2 class="alt">Hi! I'm <strong>Prologue</strong>, a <a href="http://html5up.net/license">free</a> responsive<br />
-								site template designed by <a href="http://html5up.net">HTML5 UP</a>.</h2>
-								<p>Ligula scelerisque justo sem accumsan diam quis<br />
-								vitae natoque dictum sollicitudin elementum.</p>
+								<h2 class="alt">Hi! I'm <strong>Dan</strong>, a student,<br />
+								software developer and rock climber.</h2>
+								<p>Creativity can solve almost any problem.</p>
 							</header>
 
 							<footer>
-								<a href="#portfolio" class="button scrolly">Magna Aliquam</a>
+								<a href="#portfolio" class="button scrolly"><span class="fa-angle-down"></span>Climb On<span class="fa-angle-down"></a>
 							</footer>
 
 						</div>
@@ -97,10 +95,7 @@
 								<h2>Portfolio</h2>
 							</header>
 
-							<p>Vitae natoque dictum etiam semper magnis enim feugiat convallis convallis
-							egestas rhoncus ridiculus in quis risus amet curabitur tempor orci penatibus.
-							Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis
-							fusce hendrerit lacus ridiculus.</p>
+							<p>Check out a collection of my academic work, personal work, and of course, my sends.</p>
 
 							<div class="row">
 								<div class="4u 12u$(mobile)">
@@ -171,6 +166,7 @@
 					</section>
 
 				<!-- Contact -->
+				<!--
 					<section id="contact" class="four">
 						<div class="container">
 
@@ -198,7 +194,7 @@
 
 						</div>
 					</section>
-
+				-->
 			</div>
 
 		<!-- Footer -->
@@ -206,7 +202,7 @@
 
 				<!-- Copyright -->
 					<ul class="copyright">
-						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						<li>&copy; Dan Shapiro. All rights reserved.
 					</ul>
 
 			</div>
