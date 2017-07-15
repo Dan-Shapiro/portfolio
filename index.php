@@ -66,7 +66,7 @@
 					<!-- Social Icons -->
 						<ul class="icons">
 							<li><a href="https://github.com/Dan-Shapiro" class="icon fa-github"><span class="label">Github</span></a></li>
-							<li><a href="www.linkedin.com/in/dan--shapiro" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="https://www.linkedin.com/in/dan--shapiro" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
 						</ul>
 
 				</div>
