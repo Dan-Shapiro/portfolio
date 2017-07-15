@@ -81,7 +81,7 @@
 							</header>
 
 							<footer>
-								<a href="#portfolio" class="button scrolly"><span class="fa-angle-down"></span>Climb On<span class="fa-angle-down"></a>
+								<a href="#portfolio" class="button scrolly">Climb On</a>
 							</footer>
 
 						</div>
