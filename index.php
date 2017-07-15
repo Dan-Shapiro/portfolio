@@ -29,7 +29,7 @@
 
 					<!-- Logo -->
 						<div id="logo">
-							<span class="image avatar48"><img src="images/avatar.jpg" alt="" /></span>
+							<span class="image avatar48"><img src="images/logo.png" alt="" /></span>
 							<h1 id="title">Dan Shapiro</h1>
 							<p>Software Engineer</p>
 						</div>
@@ -101,14 +101,9 @@
 								<h2>About Me</h2>
 							</header>
 
-							<a href="#" class="image featured"><img src="images/pic08-02.png" alt="" /></a>
+							<a href="#about" class="image featured"><img src="images/about-banner.png" alt="" /></a>
 
-							<p>Tincidunt eu elit diam magnis pretium accumsan etiam id urna. Ridiculus
-							ultricies curae quis et rhoncus velit. Lobortis elementum aliquet nec vitae
-							laoreet eget cubilia quam non etiam odio tincidunt montes. Elementum sem
-							parturient nulla quam placerat viverra mauris non cum elit tempus ullamcorper
-							dolor. Libero rutrum ut lacinia donec curae mus vel quisque sociis nec
-							ornare iaculis.</p>
+							<p>Currently a fourth year student in the Engineering and Applied Science School at the University of Virginia, I am an aspiring software developer with a passion for problem solving and creation. I enjoy being active through rock climbing as a member of the school's club as well as on my free time.  </p>
 
 						</div>
 					</section>
