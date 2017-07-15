@@ -103,7 +103,7 @@
 
 							<a href="#about" class="image featured"><img src="images/about-banner.png" alt="" /></a>
 
-							<p>Currently a fourth year student in the Engineering and Applied Science School at the University of Virginia, I am an aspiring software developer with a passion for problem solving and creation. I enjoy being active through rock climbing as a member of the school's club as well as on my free time.  </p>
+							<p>Currently a fourth year student in the Engineering and Applied Science School at the University of Virginia, I am an aspiring software developer with a passion for problem solving and creation. I enjoy being active through rock climbing as a member of the school's club as well as on my free time.</p>
 
 						</div>
 					</section>
@@ -116,7 +116,7 @@
 								<h2>Portfolio</h2>
 							</header>
 
-							<p>Check out a collection of my academic work, personal work, and of course, my <span class="tooltip">sends<span class="tooltiptext">Climbing a route without falling</span></span>.</p>
+							<p>Check out a collection of my academic work, personal work, and of course, my <span class="tooltip">sends<span class="tooltiptext">Route climbed without falling</span></span>.</p>
 
 							<div class="row">
 								<div class="4u 12u$(mobile)">
