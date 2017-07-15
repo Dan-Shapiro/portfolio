@@ -101,7 +101,7 @@
 								<h2>About Me</h2>
 							</header>
 
-							<a href="#" class="image featured"><img src="images/pic08-01.png" alt="" /></a>
+							<a href="#" class="image featured"><img src="images/pic08-02.png" alt="" /></a>
 
 							<p>Tincidunt eu elit diam magnis pretium accumsan etiam id urna. Ridiculus
 							ultricies curae quis et rhoncus velit. Lobortis elementum aliquet nec vitae
@@ -121,7 +121,7 @@
 								<h2>Portfolio</h2>
 							</header>
 
-							<p>Check out a collection of my academic work, personal work, and of course, my sends.</p>
+							<p>Check out a collection of my academic work, personal work, and of course, my <span class="tooltip">sends<span class="tooltiptext">Climbing a route without falling</span></span>.</p>
 
 							<div class="row">
 								<div class="4u 12u$(mobile)">
