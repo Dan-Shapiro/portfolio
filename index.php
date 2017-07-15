@@ -83,7 +83,7 @@
 							<header>
 								<h2 class="alt" style="color:#24282a;">Hi! I'm <strong style="color:#24282a;font-weight:bold;">Dan</strong>, a student,<br />
 								software developer and rock climber.</h2>
-								<p style="color:#24282a;>Creativity can solve almost any problem.</p>
+								<p style="color:#24282a;">Creativity can solve almost any problem.</p>
 							</header>
 
 							<footer>
