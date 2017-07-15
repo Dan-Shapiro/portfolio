@@ -1599,11 +1599,11 @@
 	}
 
 		h2.alt {
-			color: #24282a;
+			color: #888;
 		}
 
 			h2.alt strong {
-				font-weight: bold;
+				color: #666;
 			}
 
 	h3 {
