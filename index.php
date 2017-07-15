@@ -87,7 +87,7 @@
 							</header>
 
 							<footer>
-								<a href="#portfolio" class="button scrolly">Climb On</a>
+								<a href="#about" class="button scrolly">Climb On</a>
 							</footer>
 
 						</div>
@@ -101,7 +101,7 @@
 								<h2>About Me</h2>
 							</header>
 
-							<a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="images/pic08-01.png" alt="" /></a>
 
 							<p>Tincidunt eu elit diam magnis pretium accumsan etiam id urna. Ridiculus
 							ultricies curae quis et rhoncus velit. Lobortis elementum aliquet nec vitae
