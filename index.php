@@ -32,7 +32,7 @@
 
 					<!-- Logo -->
 						<div id="logo">
-							<span class="image avatar48"><img src="images/DS-logo.jpg" alt="" /></span>
+							<span class="image avatar48"><img src="images/logo.png" alt="" /></span>
 							<h1 id="title">Dan Shapiro</h1>
 							<p>Software Engineer</p>
 						</div>
