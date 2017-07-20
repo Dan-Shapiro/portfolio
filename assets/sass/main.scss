@@ -485,7 +485,8 @@
 
 		.bottom {
 			@include vendor('flex-shrink', '0');
-			padding: 1.5em 0 0.75em 0;
+			padding: 0;
+			margin: 0.75em;
 
 			> :last-child {
 				margin-bottom: 0;

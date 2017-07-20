@@ -1765,9 +1765,9 @@
 		ul.icons a,
 		ul.icons i {
 			display: inline-block;
-			width: 2em;
-			height: 2em;
-			line-height: 2em;
+			width: 1.25em;
+			height: 1.25em;
+			line-height: 1.25em;
 			text-align: center;
 			border: 0;
 		}
@@ -2012,7 +2012,8 @@
 			-webkit-flex-shrink: 0;
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
-			padding: 1.5em 0 0.75em 0;
+			margin: 0.75em;
+			padding: 0;
 		}
 
 			#header .bottom > :last-child {
@@ -2020,13 +2021,13 @@
 			}
 
 		#header .icons {
-			font-size: 0.8em;
+			font-size: 1.25em;
 			text-align: center;
 		}
 
 			#header .icons a,
 			#header .icons i {
-				color: #41484c;
+				color: #9af1f4;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
@@ -2035,7 +2036,7 @@
 
 				#header .icons a:hover,
 				#header .icons i:hover {
-					color: #fff;
+					color: #e27689;
 				}
 
 	#logo {
@@ -2310,8 +2311,9 @@
 
 		/* List */
 
-			ul.icons li a {
-				width: 1.75em;
+			ul.icons li a,
+			ul.icons li i {
+				width: 1.25em;
 			}
 
 		/* Item */
@@ -2395,8 +2397,9 @@
 
 		/* List */
 
-			ul.icons a {
-				width: 1.75em;
+			ul.icons a,
+			ul.icons i {
+				width: 1.25em;
 				font-size: 1.25em;
 			}
 
@@ -2574,8 +2577,9 @@
 
 		/* List */
 
-			ul.icons a {
-				width: 2em;
+			ul.icons a,
+			ul.icons i {
+				width: 1.25em;
 				font-size: 1.25em;
 			}
 
@@ -2607,4 +2611,11 @@
 					margin-top: 0;
 				}
 
+	}
+
+	.header-p {
+		font-size: 8pt;
+	    color: grey;
+	    margin-bottom: 0;
+	    text-align: center;
 	}

@@ -65,18 +65,40 @@
 				<div class="bottom">
 
 					<!-- Social Icons -->
+						<p class="header-p">Check me out on</p>
 						<ul class="icons">
-							<li><i class="icon devicon-bootstrap-plain-wordmark"></i></li>
+							<li><a href="https://github.com/Dan-Shapiro" class="icon fa-github"><span class="label">Github</span></a></li>
+							<li><a href="https://www.linkedin.com/in/dan--shapiro" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
 						</ul>
 
 				</div>
 
 				<div class="bottom">
 
-					<!-- Social Icons -->
+					<!-- Dev Icons -->
+						<p class="header-p">Experience with</p>
 						<ul class="icons">
-							<li><a href="https://github.com/Dan-Shapiro" class="icon fa-github"><span class="label">Github</span></a></li>
-							<li><a href="https://www.linkedin.com/in/dan--shapiro" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><i class="devicon-bootstrap-plain-wordmark"></i></li>
+							<li><i class="devicon-c-plain-wordmark"></i></li>
+							<li><i class="devicon-coffeescript-original-wordmark"></i></li>
+							<li><i class="devicon-cplusplus-plain-wordmark"></i></li>
+							<li><i class="devicon-csharp-plain-wordmark"></i></li>
+							<li><i class="devicon-css3-plain-wordmark"></i></li>
+							<li><i class="devicon-django-plain-wordmark"></i></li>
+							<li><i class="devicon-git-plain-wordmark"></i></li>
+							<li><i class="devicon-heroku-plain-wordmark"></i></li>
+							<li><i class="devicon-html5-plain-wordmark"></i></li>
+							<li><i class="devicon-java-plain-wordmark"></i></li>
+							<li><i class="devicon-javascript-plain"></i></li>
+							<li><i class="devicon-jquery-plain-wordmark"></i></li>
+							<li><i class="devicon-mysql-plain-wordmark"></i></li>
+							<li><i class="devicon-php-plain"></i></li>
+							<li><i class="devicon-python-plain-wordmark"></i></li>
+							<li><i class="devicon-rails-plain-wordmark"></i></li>
+							<li><i class="devicon-react-original-wordmark"></i></li>
+							<li><i class="devicon-ruby-plain-wordmark"></i></li>
+							<li><i class="devicon-sass-original"></i></li>
+							<li><i class="devicon-vim-plain"></i></li>
 						</ul>
 
 				</div>
