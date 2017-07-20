@@ -100,7 +100,6 @@
 							<li><i class="devicon-django-plain-wordmark"></i></li>
 							<li><i class="devicon-git-plain-wordmark"></i></li>
 							<li><i class="devicon-heroku-plain-wordmark"></i></li>
-							<li><i class="devicon-vim-plain"></i></li>
 						</ul>
 
 				</div>
