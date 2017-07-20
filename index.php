@@ -18,6 +18,7 @@
 		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 		<link rel="manifest" href="/manifest.json">
 		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+		<link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
 		<meta name="theme-color" content="#ffffff">
 	</head>
 	<body>
@@ -58,6 +59,15 @@
 								-->
 							</ul>
 						</nav>
+
+				</div>
+
+				<div class="bottom">
+
+					<!-- Social Icons -->
+						<ul class="icons">
+							<li><i class="icon devicon-bootstrap-plain-wordmark"></i></li>
+						</ul>
 
 				</div>
 

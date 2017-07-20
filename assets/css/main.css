@@ -1762,7 +1762,8 @@
 			display: inline-block;
 		}
 
-		ul.icons a {
+		ul.icons a,
+		ul.icons i {
 			display: inline-block;
 			width: 2em;
 			height: 2em;
@@ -2023,7 +2024,8 @@
 			text-align: center;
 		}
 
-			#header .icons a {
+			#header .icons a,
+			#header .icons i {
 				color: #41484c;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
@@ -2031,7 +2033,8 @@
 				transition: color 0.35s ease-in-out;
 			}
 
-				#header .icons a:hover {
+				#header .icons a:hover,
+				#header .icons i:hover {
 					color: #fff;
 				}
 
