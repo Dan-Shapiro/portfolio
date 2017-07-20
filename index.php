@@ -78,26 +78,26 @@
 					<!-- Dev Icons -->
 						<p class="header-p">Experience with</p>
 						<ul class="icons">
+							<li><i class="devicon-ruby-plain-wordmark"></i></li>
+							<li><i class="devicon-rails-plain-wordmark"></i></li>
+							<li><i class="devicon-html5-plain-wordmark"></i></li>
+							<li><i class="devicon-css3-plain-wordmark"></i></li>
 							<li><i class="devicon-bootstrap-plain-wordmark"></i></li>
-							<li><i class="devicon-c-plain-wordmark"></i></li>
+							<li><i class="devicon-sass-original"></i></li>
+							<li><i class="devicon-javascript-plain"></i></li>
+							<li><i class="devicon-jquery-plain-wordmark"></i></li>
 							<li><i class="devicon-coffeescript-original-wordmark"></i></li>
+							<li><i class="devicon-react-original-wordmark"></i></li>
+							<li><i class="devicon-php-plain"></i></li>
+							<li><i class="devicon-mysql-plain-wordmark"></i></li>
+							<li><i class="devicon-c-plain-wordmark"></i></li>
 							<li><i class="devicon-cplusplus-plain-wordmark"></i></li>
 							<li><i class="devicon-csharp-plain-wordmark"></i></li>
-							<li><i class="devicon-css3-plain-wordmark"></i></li>
+							<li><i class="devicon-java-plain-wordmark"></i></li>
+							<li><i class="devicon-python-plain-wordmark"></i></li>
 							<li><i class="devicon-django-plain-wordmark"></i></li>
 							<li><i class="devicon-git-plain-wordmark"></i></li>
 							<li><i class="devicon-heroku-plain-wordmark"></i></li>
-							<li><i class="devicon-html5-plain-wordmark"></i></li>
-							<li><i class="devicon-java-plain-wordmark"></i></li>
-							<li><i class="devicon-javascript-plain"></i></li>
-							<li><i class="devicon-jquery-plain-wordmark"></i></li>
-							<li><i class="devicon-mysql-plain-wordmark"></i></li>
-							<li><i class="devicon-php-plain"></i></li>
-							<li><i class="devicon-python-plain-wordmark"></i></li>
-							<li><i class="devicon-rails-plain-wordmark"></i></li>
-							<li><i class="devicon-react-original-wordmark"></i></li>
-							<li><i class="devicon-ruby-plain-wordmark"></i></li>
-							<li><i class="devicon-sass-original"></i></li>
 							<li><i class="devicon-vim-plain"></i></li>
 						</ul>
 
