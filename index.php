@@ -115,7 +115,7 @@
 						<div class="container">
 
 							<header>
-								<h2 class="alt" style="color:#24282a;">Hi! I'm <strong style="color:#24282a;font-weight:bold;">Dan</strong>, a student,<br />
+								<h2 class="alt" style="color:#24282a;">Hi! I'm <strong style="color:#24282a;" class="bold">Dan</strong>, a student,<br />
 								software developer and rock climber.</h2>
 								<p style="color:#24282a;">Creativity can solve almost any problem.</p>
 							</header>
@@ -150,20 +150,21 @@
 								<h2>Portfolio</h2>
 							</header>
 
-							<p>Check out a collection of my academic work, personal work, and of course, my <span class="tooltip">sends<span class="tooltiptext">Route climbed without falling</span></span>.</p>
+							<p>Check out a collection of my academic and personal work. Hover over these <span class="tooltip">words<span class="tooltiptext">To learn the climber jargon</span></span>.</p>
 
 							<div class="row">
 								<div class="4u 12u$(mobile)">
 									<article class="item">
 										<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
 										<header>
-											<h3>Ipsum Feugiat</h3>
+											<h3>Class: <span class="bold">eCommerce Technologies</span></h3>
+											<h3>Fictional business website</h3>
 										</header>
 									</article>
 									<article class="item">
 										<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
 										<header>
-											<h3>Rhoncus Semper</h3>
+											<h3>Personal: <span class="bold">Random Word Generator</span></h3>
 										</header>
 									</article>
 								</div>
@@ -171,13 +172,15 @@
 									<article class="item">
 										<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
 										<header>
-											<h3>Magna Nullam</h3>
+											<h3>Class: <span class="bold">S.W. Design and Implementation</span></h3>
+											<h3>Social media blogging app</h3>
 										</header>
 									</article>
 									<article class="item">
 										<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
 										<header>
-											<h3>Natoque Vitae</h3>
+											<h3>Class: <span class="bold">Prog. Languages for Web Apps</span></h3>
+											<h3>Amazon-style website. Lingo game. Cookbook organizer</h3>
 										</header>
 									</article>
 								</div>
@@ -185,13 +188,14 @@
 									<article class="item">
 										<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
 										<header>
-											<h3>Dolor Penatibus</h3>
+											<h3><span class="tooltip">Projecting<span class="tooltiptext">Route (class) currently being attempted, not yet completed</span></span>: <span class="bold">Database Systems</span></h3>
 										</header>
 									</article>
 									<article class="item">
 										<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
 										<header>
-											<h3>Orci Convallis</h3>
+											<h3>Class: <span class="bold">Program and Data Representation</span></h3>
+											<h3>Various uses of common data structures</h3>
 										</header>
 									</article>
 								</div>

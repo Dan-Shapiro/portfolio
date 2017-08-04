@@ -2619,3 +2619,7 @@
 	    margin-bottom: 0;
 	    text-align: center;
 	}
+
+	.bold {
+		font-weight: bold;
+	}
