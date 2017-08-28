@@ -155,7 +155,7 @@
 							<div class="row">
 								<div class="4u 12u$(mobile)">
 									<article class="item">
-										<a href="https://github.com/Dan-Shapiro/eCommerce" class="image fit"><img src="images/Union.png" alt="" /></a>
+										<a href="https://github.com/Dan-Shapiro/eCommerce" class="image fit"><img src="images/Union.PNG" alt="" /></a>
 										<header>
 											<h3>Class: <span class="bold">eCommerce Technologies</span></h3>
 											<h3>Fictional business website</h3>
@@ -163,7 +163,7 @@
 										</header>
 									</article>
 									<article class="item">
-										<a href="https://github.com/Dan-Shapiro/Ruby/tree/master/nGram" class="image fit"><img src="images/nGram.png" alt="" /></a>
+										<a href="https://github.com/Dan-Shapiro/Ruby/tree/master/nGram" class="image fit"><img src="images/nGram.PNG" alt="" /></a>
 										<header>
 											<h3>Personal: <span class="bold">Random Word Generator</span></h3>
 											<p style="font-size: 10pt; padding: 5px; line-height: 12pt;">I created this word generator as both a mode to learn Ruby as well as have some fun coming up with a way to try and create realistic sounding words.  It works by reading in a text file and parsing through each word storing the letters in nested frquency hashes.  Once it is done importing, it generates letters based on previously generated letters in the word referencing the hashes for probabilities.  After it generates the list, I reject words with awkward structure such as too short or long length or double consonant letters at the start of a word.  Clone the repo and see it locally <a href="https://github.com/Dan-Shapiro/Ruby/tree/master/nGram">here</a> and find what words you can have it generate.</p>
@@ -172,7 +172,7 @@
 								</div>
 								<div class="4u 12u$(mobile)">
 									<article class="item">
-										<a href="https://github.com/Dan-Shapiro/JavaServlet/tree/master/ShapChat" class="image fit"><img src="images/ShapChat.png" alt="" /></a>
+										<a href="https://github.com/Dan-Shapiro/JavaServlet/tree/master/ShapChat" class="image fit"><img src="images/ShapChat.PNG" alt="" /></a>
 										<header>
 											<h3>Class: <span class="bold">S.W. Design and Implementation</span></h3>
 											<h3>Social media blogging app</h3>
