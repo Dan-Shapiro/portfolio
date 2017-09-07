@@ -180,10 +180,11 @@
 										</header>
 									</article>
 									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
+										<a href="https://github.com/Dan-Shapiro/PHP" class="image fit"><img src="images/PLWA.png" alt="" /></a>
 										<header>
 											<h3>Class: <span class="bold">Prog. Languages for Web Apps</span></h3>
 											<h3>Amazon-style website. Lingo game. Cookbook organizer</h3>
+											<p style="font-size: 10pt; padding: 5px; line-height: 12pt;">This class started me on my web development path.  We learned all the languages, protocols and conventions of the web languages from HTML, CSS, Javascript, jQuery, PHP, MySQL, AJAX, cookies, sessions, and much more.  We worked on 3 main projects throughout the course.  The first was an Amazon-like store implementing account management via sessions, shopping cart, registration and checkout verification via email, and a MySQL database.  The second project was a Lingo game which included real-time stopwatch, dynamically updated tables via AJAX and keystroke event listeners and delegation.  The final project we worked on was an online cookbook featuring CSS styling, persisting data locally and on the server with a MySQL database.  Clone the repo and see it locally <a href="https://github.com/Dan-Shapiro/PHP">here</a> (Assignment 2-4 respectively).</p>
 										</header>
 									</article>
 								</div>
@@ -215,8 +216,10 @@
 								<h2>Climbs</h2>
 							</header>
 
-							<p>Check out a collection of my academic work, personal work, and of course, my <span class="tooltip">sends<span class="tooltiptext">Route climbed without falling</span></span>.</p>
+							<p>Check out a collection of my <span class="tooltip">sends<span class="tooltiptext">Route climbed without falling</span></span>.</p>
+							<p>This section is not complete yet as I am currently gathering pictures of routes I have climbed and am currently projecting</p>
 
+							<!--
 							<div class="row">
 								<div class="4u 12u$(mobile)">
 									<article class="item">
@@ -261,6 +264,7 @@
 									</article>
 								</div>
 							</div>
+							-->
 
 						</div>
 					</section>
